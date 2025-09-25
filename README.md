@@ -41,7 +41,7 @@ It was developed as part of the **Fundamentals and Applications of Artificial In
 Run the game:
 
 ```bash
-python connect_four.py
+python minimax.py
 ```
 
 ## Learning Outcomes
